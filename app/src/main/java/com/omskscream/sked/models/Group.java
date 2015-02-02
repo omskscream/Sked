@@ -1,7 +1,7 @@
 package com.omskscream.sked.models;
 
 /**
- * @author user
+ * @author omskscream
  */
 public class Group {
 }

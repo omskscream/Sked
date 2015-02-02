@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import com.omskscream.sked.R;
 
 /**
- * @author user
+ * @author omskscream
  */
 public class MainFragment extends Fragment {
 
