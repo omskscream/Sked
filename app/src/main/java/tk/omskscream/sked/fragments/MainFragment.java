@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.omskscream.sked.fragments;
+package tk.omskscream.sked.fragments;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -25,7 +25,7 @@ import android.view.ViewGroup;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.omskscream.sked.R;
+import tk.omskscream.sked.R;
 
 /**
  * @author omskscream

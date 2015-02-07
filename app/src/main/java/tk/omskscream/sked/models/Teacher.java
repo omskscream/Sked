@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.omskscream.sked.models;
+package tk.omskscream.sked.models;
 
 /**
  * @author omskscream
  */
-public class Group {
+public class Teacher {
 }

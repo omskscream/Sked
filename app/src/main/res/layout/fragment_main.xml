@@ -6,7 +6,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="com.omskscream.sked.fragments.MainFragment">
+    tools:context="tk.omskscream.sked.fragments.MainFragment">
 
     <TextView tools:text="UP"
         android:id="@+id/txtMainUp"
